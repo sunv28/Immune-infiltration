@@ -16,6 +16,7 @@
 
 # CIBERSORT
 
-![](picture/CIBERSORTx.png){width="655"}
+![CIBERSORTx](https://github.com/user-attachments/assets/8b81d5ac-d559-4c88-ab85-917d903c6c11)
 
-CIBERSORT 是基于线性支持向量回归（linear support vector regression）的原理，对人类免疫细胞亚型的表达矩阵进行去卷积，通过去卷积的方法计算出各个免疫细胞亚群的含量。该方法是基于已知参考集，提供了22种免疫细胞亚型的基因表达特征集：**LM22.txt**
+
+CIBERSORT 是基于线性支持向量回归（linear support vector regression）的原理，对人类免疫细胞亚型的表达矩阵进行去卷积，通过去卷积的方法计算出各个免疫细胞亚群的含量。
